@@ -1,0 +1,9 @@
+Challenge ID,Text Family,Sprite
+coins,challenge_coins,spr_coin_pile
+slime,challenge_slime,spr_goo
+wizard,challenge_wizards,spr_red_wizard_down
+golem,challenge_golems,spr_golem_down
+mega,challenge_mega_floor,spr_hammer
+chest,challenge_chests,spr_random_chest
+upgrade,challenge_upgrade,spr_sword
+shove,challenge_shove,spr_fall
