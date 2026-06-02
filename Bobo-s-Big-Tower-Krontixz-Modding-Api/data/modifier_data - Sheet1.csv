@@ -1,0 +1,16 @@
+Mod ID,Text Family,Sprite,Unlock Price,Unlocked By Default,Enabled By Default,Spawnable
+luck,mod_luck,spr_mod_luck,0,1,1,0
+pepper,mod_pepper,spr_mod_pepper,2,0,0,0
+dynamite,mod_dynamite,spr_mod_dynamite,2,0,0,0
+elite,mod_elite,spr_mod_upgrade,2,0,0,1
+speed,mod_speed,spr_mod_timer,2,0,0,0
+slow,mod_slow,spr_mod_slow,2,0,0,0
+lonely,mod_lonely,spr_mod_no_shop,2,0,0,0
+lifesteal,mod_lifesteal,spr_mod_lifesteal,2,0,0,1
+fragile,mod_fragile,spr_mod_fragile,2,0,0,0
+heavy,mod_heavy,spr_mod_heavy,2,0,0,1
+expand,mod_expand,spr_mod_expand,2,0,0,0
+shuffle,mod_shuffle,spr_mod_shuffle,2,0,0,0
+limit,mod_limit,spr_mod_max_inv,2,0,0,0
+reroll,mod_reroll,spr_mod_reroll,8,0,0,0
+endless,mod_endless,spr_mod_endless,8,0,0,0
