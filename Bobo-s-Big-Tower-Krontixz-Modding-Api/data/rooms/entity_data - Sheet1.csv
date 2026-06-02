@@ -1,0 +1,42 @@
+Enemy ID,Sprite Group,Max HP,Phys Dmg,Mag Dmg,Phys Def,Mag Def,Move Amount,Move Speed,Move Delay,Move Reaction?,Move Diagonal?,Move Random?,Move Away?,Can Fall?,Coins Dropped,Kill Messages,Object Trail,Category
+player,spr_char_down,4,1,1,0,0,1,1,0,0,0,0,0,1,0,-1,-1,-1
+lock,spr_blue_door_locked,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1
+shop,spr_baba_down,999,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1
+pot,spr_blue_pot,1,0,0,0,0,0,0,0,0,0,0,0,1,1,-1,-1,-1
+box,spr_blue_box,1,0,0,0,0,0,0,0,0,0,0,0,1,1,-1,-1,-1
+cracked_wall,spr_cracked_wall,1,0,0,0,0,0,0,0,0,0,0,0,1,1,-1,-1,-1
+statue,spr_blue_statue,2,0,0,0,0,0,0,0,0,0,0,0,1,2,-1,-1,-1
+chest,spr_chest,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1
+push_block,spr_orb,999,0,0,0,0,0,1,0,0,0,0,0,1,0,-1,-1,-1
+saw,spr_saw,99,1,0,0,0,1,2,0,0,0,0,0,0,0,-1,-1,-1
+tnt,spr_tnt,1,0,2,0,0,0,0,0,0,0,0,0,1,0,-1,-1,-1
+barrel,spr_barrel_man,1,0,2,0,0,1,1,0,1,0,0,0,1,0,-1,-1,-1
+skeleton,spr_skeleton_down,2,1,0,0,0,1,1,0,1,0,0,0,1,3,"[""death_skeleton_a"", ""death_skeleton_b"", ""death_skeleton_c"", ""death_skeleton_d""]",-1,skeleton
+red_skeleton,spr_red_skeleton_down,3,2,0,0,0,1,1,0,0,0,0,0,1,5,"[""death_red_skeleton_a"", ""death_red_skeleton_b"", ""death_red_skeleton_c""]",-1,skeleton
+green_skeleton,spr_green_skeleton_down,3,1,0,1,0,1,1,0,0,0,0,0,1,6,"[""death_green_skeleton_a"", ""death_green_skeleton_b"", ""death_green_skeleton_c""]",-1,skeleton
+yellow_skeleton,spr_yellow_skeleton_down,3,1,0,-1,0,1,1,0,1,0,0,1,1,5,"[""death_yellow_skeleton_a"", ""death_yellow_skeleton_b"", ""death_yellow_skeleton_c""]",-1,skeleton
+blue_knight,spr_blue_skeleton_down,5,2,0,2,-1,1,1,0,0,0,0,0,1,8,"[""death_blue_knight_a"", ""death_blue_knight_b"", ""death_blue_knight_c""]",-1,skeleton
+yellow_knight,spr_yellow_knight_down,5,2,0,2,-1,1,1,0,0,0,0,1,1,8,-1,-1,skeleton
+red_wizard,spr_red_wizard_down,3,0,1,0,2,1,1,0,0,0,0,1,1,6,"[""death_red_wizard_a"", ""death_red_wizard_b"", ""death_red_wizard_c""]",-1,wizard
+blue_wizard,spr_blue_wizard_down,3,0,1,0,2,1,1,0,0,1,0,0,1,6,"[""death_blue_wizard_a"", ""death_blue_wizard_b"", ""death_blue_wizard_c""]",-1,wizard
+green_wizard,spr_green_wizard_down,3,0,1,0,2,1,1,0,0,0,0,0,1,6,"[""death_green_wizard_a"", ""death_green_wizard_b"", ""death_green_wizard_c""]",-1,wizard
+yellow_wizard,spr_yellow_wizard_down,3,0,1,0,2,1,1,0,0,1,0,1,1,6,"[""death_yellow_wizard_a"", ""death_yellow_wizard_b"", ""death_yellow_wizard_c""]",-1,wizard
+purple_wizard,spr_purple_wizard_down,3,0,1,0,2,1,1,0,0,1,0,1,1,6,"[""death_purple_wizard_a"", ""death_purple_wizard_b"", ""death_purple_wizard_c""]",-1,wizard
+brown_wizard,spr_brown_wizard_down,3,0,1,0,2,1,1,0,0,1,0,1,1,6,"[""death_brown_wizard_a"", ""death_brown_wizard_b"", ""death_brown_wizard_c""]",-1,wizard
+golem,spr_golem_down,10,2,0,10,-3,1,1,0,0,0,0,0,1,5,"[""death_golem_a"", ""death_golem_b"", ""death_golem_c""]",-1,golem
+bat,spr_bat_down,2,1,0,0,1,2,2,0,1,0,0,0,0,4,"[""death_bat_a"", ""death_bat_b"", ""death_bat_c""]",-1,bat
+fat_bat,spr_fat_bat_down,7,2,0,0,0,1,0.5,0,0,0,0,0,1,7,"[""death_fat_bat_a"", ""death_fat_bat_b"", ""death_fat_bat_c""]",-1,bat
+spider,spr_spider_down,2,1,0,0,0,1,1,0,1,1,0,0,1,3,"[""death_spider_a"", ""death_spider_b"", ""death_spider_c""]",-1,spider
+slime,spr_slime_down,3,0,1,5,5,1,1,1,1,0,0,0,1,3,"[""death_slime_a"", ""death_slime_b"", ""death_slime_c""]",obj_slime_trail,slime
+blue_slime,spr_blue_slime_down,3,0,1,5,5,1,1,1,1,1,0,0,1,3,"[""death_slime_blue_a"", ""death_slime_blue_b"", ""death_slime_blue_c""]",obj_blue_slime_trail,slime
+red_slime,spr_red_slime_down,5,0,2,5,5,1,1,0,0,0,0,0,1,7,"[""death_slime_red_a"", ""death_slime_red_b"", ""death_slime_red_c""]",obj_red_slime_trail,slime
+gold_slime,spr_gold_slime_down,4,0,1,5,5,1,1,0,1,0,1,0,1,10,"[""death_slime_gold_a"", ""death_slime_gold_b"", ""death_slime_gold_c""]",obj_gold_slime_trail,slime
+mega_slime,spr_mega_slime_down,5,0,2,5,5,2,1,1,1,0,0,0,0,10,"[""death_slime_a"", ""death_slime_b"", ""death_slime_c""]",obj_slime_trail,slime
+ghost,spr_ghost_down,3,0,1,10,0,1,1,1,0,1,0,0,0,1,"[""death_ghost_a"", ""death_ghost_b"", ""death_ghost_c""]",-1,ghost
+remnant,spr_remnant_down,10,2,0,10,0,1,1,0,0,1,0,0,1,0,"[""death_remnant_a""]",-1,-1
+boss_bobo,spr_bobo_down,10,0,2,10,10,1,1,1,1,1,0,1,1,100,"[""death_boss_bobo_a1"", ""death_boss_bobo_b1"", ""death_boss_bobo_c1""]",-1,-1
+boss_bibi,spr_char_down,4,2,0,5,5,1,1,0,0,0,0,0,1,5,"[""death_boss_bibi_a1"", ""death_boss_bibi_b1"", ""death_boss_bibi_c1""]",-1,-1
+boss_baba,spr_baba_down,10,2,0,10,0,1,1,0,0,0,0,0,1,0,"[""death_boss_baba_a1"", ""death_boss_baba_b1"", ""death_boss_baba_c1""]",-1,-1
+boss_bubu,spr_bubu_down,1,2,0,0,0,1,1,0,1,0,0,1,1,321,"[""death_boss_bubu_a1"", ""death_boss_bubu_b1"", ""death_boss_bubu_c1""]",-1,-1
+boss_test,spr_boss_test,10,2,0,2,2,1,0.5,0,0,0,0,0,1,20,-1,-1,-1
+book,spr_book_down,2,1,0,0,0,1,1,0,0,0,0,0,0,3,-1,-1,-1
