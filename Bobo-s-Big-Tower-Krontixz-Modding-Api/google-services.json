@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989455071824",
+    "project_id": "bobos-big-tower-android",
+    "storage_bucket": "bobos-big-tower-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989455071824:android:3ca331c843626f7f9daf55",
+        "android_client_info": {
+          "package_name": "net.sillykitty.bobosbigtower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8hJsRVDc0fqP-8iZyn-yvCfofU1y2rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
